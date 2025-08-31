@@ -1,0 +1,17 @@
+C:\Users\gerbe\source\repos\ProyectoEjecucion\ProyectoEjecucion\bin\Debug\ProyectoEjecucion.exe.config
+C:\Users\gerbe\source\repos\ProyectoEjecucion\ProyectoEjecucion\bin\Debug\ProyectoEjecucion.exe
+C:\Users\gerbe\source\repos\ProyectoEjecucion\ProyectoEjecucion\bin\Debug\ProyectoEjecucion.pdb
+C:\Users\gerbe\source\repos\ProyectoEjecucion\ProyectoEjecucion\bin\Debug\CapaVista.dll
+C:\Users\gerbe\source\repos\ProyectoEjecucion\ProyectoEjecucion\bin\Debug\CapaControlador.dll
+C:\Users\gerbe\source\repos\ProyectoEjecucion\ProyectoEjecucion\bin\Debug\CapaVista.pdb
+C:\Users\gerbe\source\repos\ProyectoEjecucion\ProyectoEjecucion\bin\Debug\CapaControlador.pdb
+C:\Users\gerbe\source\repos\ProyectoEjecucion\ProyectoEjecucion\obj\Debug\ProyectoEjecucion.csproj.AssemblyReference.cache
+C:\Users\gerbe\source\repos\ProyectoEjecucion\ProyectoEjecucion\obj\Debug\ProyectoEjecucion.Properties.Resources.resources
+C:\Users\gerbe\source\repos\ProyectoEjecucion\ProyectoEjecucion\obj\Debug\ProyectoEjecucion.csproj.GenerateResource.cache
+C:\Users\gerbe\source\repos\ProyectoEjecucion\ProyectoEjecucion\obj\Debug\ProyectoEjecucion.csproj.CoreCompileInputs.cache
+C:\Users\gerbe\source\repos\ProyectoEjecucion\ProyectoEjecucion\obj\Debug\Proyecto.AED6DBB4.Up2Date
+C:\Users\gerbe\source\repos\ProyectoEjecucion\ProyectoEjecucion\obj\Debug\ProyectoEjecucion.exe
+C:\Users\gerbe\source\repos\ProyectoEjecucion\ProyectoEjecucion\obj\Debug\ProyectoEjecucion.pdb
+C:\Users\gerbe\source\repos\ProyectoEjecucion\ProyectoEjecucion\bin\Debug\CapaModelo.dll
+C:\Users\gerbe\source\repos\ProyectoEjecucion\ProyectoEjecucion\bin\Debug\CapaModelo.pdb
+C:\Users\gerbe\source\repos\ProyectoEjecucion\ProyectoEjecucion\obj\Debug\ProyectoEjecucion.exe.config
